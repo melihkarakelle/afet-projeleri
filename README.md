@@ -76,15 +76,12 @@ Contributions are what make the open source community such an amazing place to b
 
 ## Faydali Linkler
 
-
-* [ShaanCoding](https://github.com/ShaanCoding/)
-* [Othneil Drew](https://github.com/othneildrew/Best-README-Template)
-* [ImgShields](https://shields.io/)
+* [Piezo Pickup Amplifiers](https://sound-au.com/project202.htm)
 
 
 ## Katkida Bulunanlar
 
-* **Shaan Khan** - *Comp Sci Student* - [Shaan Khan](https://github.com/ShaanCoding/) - *Built ReadME Template*
+* **Melih Karakelle** - Genel proje yurutucusu - https://twitter.com/MelihKarakelle
 
 ## Tesekkurler
 
