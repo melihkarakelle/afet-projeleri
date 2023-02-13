@@ -77,7 +77,7 @@ Kar amaci gutmeden yapacagim projelere destek olmanin pek cok yolu var:
 
 1. Paylasilan projelerin, becerileriniz olcusunde uretimini yapabilirsiniz, yapanlara yardim edebilirsiniz.
 2. Eksik veya onerilerinizi bana iletebilirsiniz -> [buradan](https://github.com/melihkarakelle/afet-projeleri/issues)
-3. Gelistirme asamasinda becerilerinizi yaplasabilirsiniz -> [Katilim](#katilim)
+3. Gelistirme asamasinda becerilerinizi PAYlasabilirsiniz -> [Katilim](#katilim)
 4. Maddi destek verebilrisiniz (yakinda)
 6. Biten projelerin ucretsiz dagitimina katki icin ucreti karsiliginda kendinize alabilirsiniz. (yakinda)
 
@@ -96,6 +96,8 @@ Eger ticari amacla kullaniyorsaniz, [Destek](#destek) kismini okuyarak yardimci 
 ## Faydali Linkler
 
 * [Piezo Pickup Amplifiers](https://sound-au.com/project202.htm)
+* [A High Resolution Ultrawideband Wall Penetrating
+Radar](https://research.sabanciuniv.edu/id/eprint/96/1/3011800000350.pdf)
 
 
 ## Katkida Bulunanlar
