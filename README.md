@@ -27,29 +27,48 @@
 
 ## Amac
 
-![Screen Shot](images/screenshot.png)
+Bu projelerin amaci, hobi amacli olarak gelistirdigim, afet anlarinda kullanilabilecek teknolojileri paylasarak bunlarin gelistirilmesi veya oldugu gibi uretilmesi icin zemin teskil etmek. 
 
-There are many great README templates available on GitHub, however, I didn't find one that really suit my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need.
+Paylasilan projeleri, minimum bilgi ve beceri sahibi kisiler tarafindan yapilabilecek bicimde tasarlamaya calisiyorum ancak bazi kisimlar bireysel uretime uygun olmayabilir. 
 
-Here's why:
+Projeleri alip degistirebilir, gelistirebilir, daha iyisini biliyorsaniz o sekilde bastan yapabilirsiniz.
+Hedefim bir kisiyi daha kurtarmak oldugu icin benim beklentim "golge etmeyin baska birsey istemem" ve yardiminiz olursa da simdiden tesekkurler.
 
-* Your time should be focused on creating something amazing. A project that solves a problem and helps others
-* You shouldn't be doing the same tasks over and over like creating a README from scratch
-* You should element DRY principles to the rest of your life :smile:
+Kucuk bir hatirlatma:
+1980 lerin sonundan beri elektronik ve yazilim konularinda calisiyorum, makina muhendisligi okudum. Askeri/medikal/havacilik teknolojileri gelistirme, bilinen bazi markalarin yazilim altyapilarinin gelistirilmesi, siber guvenlik, web tasarim uzerine calistim. Tv izlemek yerine, aklima gelen teknolojilerin olurunu(proof of concept) test edip kenara atmakla omrumu geciriyorum. Bu projelerden kucuk bir kismini ticari urun olarak uretip gecimimi ve projelerim icin butcemi sagliyorum.
+Hayir zengin degilim, evi gecindirmek icin, okul cikisi benzin istasyonunda calismis bir ogretmenin ogluyum.
 
-Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue.
-
-A list of commonly used resources that I find helpful are listed in the acknowledgements.
 
 ## Yol Haritasi
 
-This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
+Projelerin tamamlanmasi icin asagidaki yol haritasini takip etmek istiyorum ancak gerek yasam gayesi, gerek yetiskin ADHDsinin cikarttigi zorluklar, gerek insanimizin konuyu unutma hizi sebebi ile ne kadarini bitirebilirim simdilik kestirmek zor.
+
+* Asama 1:
+  Basit Enkaz Dinleme Cihazi tasarimi, uretimi ve adetli uretilip dagitimi icin uretim ve gelir modeli olusturulmasi.
+  
+* Asama 2:
+  Profesyonel Enkaz Dinleme Cihazi tasarimi, uretimi ve arama kurtarma birimlerine dagitimi.
+
+* Asama 3:
+  Termal Kamera test ve uretimi. Yasal sikintilarin cozulmesi.
+  (Termal kamera isim geregi yapmakta oldugum birsey, gelistirme sureci hizli olacagi icin belirtmedim)
+
+* Asama 4:
+  Enkaz Radari tasarimi, uretimi ve arama kurtarma birimlerine dagitimi.
+  
+* Asama 5:
+  Alan aydinlatma sistemleri tasarimi, uretimi ve arama kurtarma birimlerine dagitimi.
+  
+ 
 
 
 ## Projeler
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+* [Enkaz Dinleme](https://github.com/melihkarakelle/afet-projeleri/enkaz-dinleme)
+* [Enkaz Radari](https://github.com/melihkarakelle/afet-projeleri/enkaz-radari)
+* [Alan Aydinlatma Kulesi](https://github.com/melihkarakelle/afet-projeleri/aydinlatma-kulesi)
+* [Termal El Kamerasi](https://github.com/melihkarakelle/afet-projeleri/termal-el-kamerasi)
+* [Drone Alti Aydinlatma](https://github.com/melihkarakelle/afet-projeleri/drone-alti-aydinlatma)
 
 
 ## Destek
