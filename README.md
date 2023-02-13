@@ -75,7 +75,7 @@ Kar amaci gutmeden yapacagim projelere destek olmanin pek cok yolu var:
 
 1. Paylasilan projelerin, becerileriniz olcusunde uretimini yapabilirsiniz, yapanlara yardim edebilirsiniz.
 2. Eksik veya onerilerinizi bana iletebilirsiniz -> [buradan](https://github.com/melihkarakelle/afet-projeleri/issues)
-3. Gelistirme asamasinda becerilerinizi PAYlasabilirsiniz -> [Katilim](#katilim)
+3. Gelistirme asamasinda becerilerinizi paylasabilirsiniz -> [Katilim](#katilim)
 4. Maddi destek verebilrisiniz (yakinda)
 6. Biten projelerin ucretsiz dagitimina katki icin ucreti karsiliginda kendinize alabilirsiniz. (yakinda)
 
