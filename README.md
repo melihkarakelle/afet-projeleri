@@ -5,8 +5,6 @@
   <p align="center">
     Acik kaynakli olarak yuruttugum butun afet ekipman tasarimlarini burada bulabilirsiniz.
     <br/>
-    <br/>
-    <a href="https://github.com/melihkarakelle/afet-projeleri/issues">Problem Bildirme ve Oneriler</a>
   </p>
 </p>
 
