@@ -64,11 +64,11 @@ Projelerin tamamlanmasi icin asagidaki yol haritasini takip etmek istiyorum anca
 
 ## Projeler
 
-* [Enkaz Dinleme](https://github.com/melihkarakelle/afet-projeleri/enkaz-dinleme)
-* [Enkaz Radari](https://github.com/melihkarakelle/afet-projeleri/enkaz-radari)
-* [Alan Aydinlatma Kulesi](https://github.com/melihkarakelle/afet-projeleri/aydinlatma-kulesi)
-* [Termal El Kamerasi](https://github.com/melihkarakelle/afet-projeleri/termal-el-kamerasi)
-* [Drone Alti Aydinlatma](https://github.com/melihkarakelle/afet-projeleri/drone-alti-aydinlatma)
+* [Enkaz Dinleme](https://github.com/melihkarakelle/afet-projeleri/tree/main/enkaz-dinleme)
+* [Enkaz Radari](https://github.com/melihkarakelle/afet-projeleri/tree/main/enkaz-radari)
+* [Alan Aydinlatma Kulesi](https://github.com/melihkarakelle/afet-projeleri/tree/main/aydinlatma-kulesi)
+* [Termal El Kamerasi](https://github.com/melihkarakelle/afet-projeleri/tree/main/termal-el-kamerasi)
+* [Drone Alti Aydinlatma](https://github.com/melihkarakelle/afet-projeleri/tree/main/drone-alti-aydinlatma)
 
 
 ## Destek
