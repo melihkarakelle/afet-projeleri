@@ -53,19 +53,15 @@ To get a local copy up and running follow these simple example steps.
 ## Destek
 
 Kar amaci gutmeden yapacagim projelere destek olmanin pek cok yolu var
-1. Eksik veya onerilerinizi bana iletebilirsiniz -> [buradan](https://github.com/melihkarakelle/afet-projeleri/issues)
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
+1. Paylasilan projelerin, becerileriniz olcusunde uretimini yapabilirsiniz, yapanlara yardim edebilirsiniz
+2. Eksik veya onerilerinizi bana iletebilirsiniz -> [buradan](https://github.com/melihkarakelle/afet-projeleri/issues)
+3. Gelistirme asamasinda becerilerinizi yaplasabilirsiniz -> [Katilim](#katilim)
+4. Maddi destek verebilrisiniz (yakinda)
+6. Biten projelerin ucretsiz dagitimina katki icin ucreti karsiliginda kendinize alabilirsiniz. (yakinda)
 
 ## Katilim
 
-Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-* If you have suggestions for adding or removing projects, feel free to [open an issue](https://github.com/melihkarakelle/afet-projeleri/issues/new) to discuss it, or directly create a pull request after you edit the *README.md* file with necessary changes.
-* Please make sure you check your spelling and grammar.
-* Create individual PR for each suggestion.
-* Please also read through the [Code Of Conduct](https://github.com/melihkarakelle/afet-projeleri/blob/main/CODE_OF_CONDUCT.md) before posting your first idea as well.
+
 
 ## Lisans
 
