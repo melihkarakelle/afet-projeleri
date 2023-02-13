@@ -52,7 +52,8 @@ To get a local copy up and running follow these simple example steps.
 
 ## Destek
 
-1. Fork the Project
+Kar amaci gutmeden yapacagim projelere destek olmanin pek cok yolu var
+1. Eksik veya onerilerinizi bana iletebilirsiniz -> [buradan](https://github.com/melihkarakelle/afet-projeleri/issues)
 2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
 3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
@@ -68,11 +69,8 @@ Contributions are what make the open source community such an amazing place to b
 
 ## Lisans
 
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
+Burada paylasilan projelerin amaci afet aninda hayat kurtarmak oldugu icin, her turlu kopyalama, taklit veya degisiklik izin almadan yapilabilir.
+Eger ticari amacla kullaniyorsaniz, [Destek](#destek) kismini okuyarak yardimci olabilirsiniz.
 
 ## Faydali Linkler
 
@@ -85,6 +83,3 @@ Contributions are what make the open source community such an amazing place to b
 
 ## Tesekkurler
 
-* [ShaanCoding](https://github.com/ShaanCoding/)
-* [Othneil Drew](https://github.com/othneildrew/Best-README-Template)
-* [ImgShields](https://shields.io/)
