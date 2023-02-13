@@ -45,22 +45,28 @@ A list of commonly used resources that I find helpful are listed in the acknowle
 
 This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 
+
 ## Projeler
 
 This is an example of how you may give instructions on setting up your project locally.
 To get a local copy up and running follow these simple example steps.
 
+
 ## Destek
 
-Kar amaci gutmeden yapacagim projelere destek olmanin pek cok yolu var
-1. Paylasilan projelerin, becerileriniz olcusunde uretimini yapabilirsiniz, yapanlara yardim edebilirsiniz
+Kar amaci gutmeden yapacagim projelere destek olmanin pek cok yolu var:
+
+1. Paylasilan projelerin, becerileriniz olcusunde uretimini yapabilirsiniz, yapanlara yardim edebilirsiniz.
 2. Eksik veya onerilerinizi bana iletebilirsiniz -> [buradan](https://github.com/melihkarakelle/afet-projeleri/issues)
 3. Gelistirme asamasinda becerilerinizi yaplasabilirsiniz -> [Katilim](#katilim)
 4. Maddi destek verebilrisiniz (yakinda)
 6. Biten projelerin ucretsiz dagitimina katki icin ucreti karsiliginda kendinize alabilirsiniz. (yakinda)
 
+
+
 ## Katilim
 
+Yazilim, donanim, 3D cizim, uretim, konu(ses,goruntu,afet, kurtarma gibi) hakkinda bilgi paylasimi ve katkilariniz icin twitter postlarim altinda bana mesaj yazarak ulasabilirsiniz. https://twitter.com/MelihKarakelle
 
 
 ## Lisans
