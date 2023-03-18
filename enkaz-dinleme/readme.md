@@ -54,7 +54,7 @@ KALAN AŞAMLAR
 Projenin iki farklı versiyonunu paylaşıyorum. 
 
 ### 1) Basit Deneme Versiyonu
-[![OSHWLab Page](https://github.com/melihkarakelle/afet-projeleri/blob/main/enkaz-dinleme/sismik_oshwlab_page2.png)](https://oshwlab.com/melih/enkaz_dinleme_copy)
+[![OSHWLab Page](https://github.com/melihkarakelle/afet-projeleri/blob/main/enkaz-dinleme/sismik_oshwlab_page3.png)](https://oshwlab.com/melih/enkaz_dinleme_copy)
 <br>Bu version kolay bulunacak malzemeler ile yapılabilen örnek devre şemasıdır.
 Açıp kapama için anahtar, pil olarak da 3-4 kalep pil alan soket veya 9v pil kullanılabilir.
 https://oshwlab.com/melih/enkaz_dinleme_copy <br>
