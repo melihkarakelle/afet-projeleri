@@ -51,8 +51,6 @@ KALAN AŞAMLAR
 
 ## Nasil Yapilir?
 
-[![OSHWLab Basit Şema Sayfası](https://github.com/melihkarakelle/afet-projeleri/blob/main/enkaz-dinleme/sismik_oshwlab_page.png))]([link to your UR](https://oshwlab.com/melih/enkaz_dinleme_copy)L)
-
 
 ![image search api](https://github.com/melihkarakelle/afet-projeleri/blob/main/enkaz-dinleme/sismik_oshwlab_page.png)[(OSHWLab Basit Şema Sayfası)](https://oshwlab.com/melih/enkaz_dinleme_copy)
 
