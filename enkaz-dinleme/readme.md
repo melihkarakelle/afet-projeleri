@@ -27,6 +27,10 @@
 * Üretimi ve kullanımı kolay,
 bir sismik enkaz dinleme (life detector) cihazı üretmek ve arama kurtarmacılara mümkün olduğu kadar çok sayıda ulaştırmak.
 
+Örnek video
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=WxFC-EzqI3o" target="_blank">
+ <img src="http://img.youtube.com/vi/WxFC-EzqI3o/mqdefault.jpg" alt="Watch the video" width="480" height="360" border="10" />
+</a>
 
 ## Yol Haritasi
 
@@ -47,9 +51,7 @@ KALAN AŞAMLAR
 
 ## Nasil Yapilir?
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=WxFC-EzqI3o" target="_blank">
- <img src="http://img.youtube.com/vi/WxFC-EzqI3o/mqdefault.jpg" alt="Watch the video" width="240" height="180" border="10" />
-</a>
+
 
 * [Enkaz Dinleme](https://github.com/melihkarakelle/afet-projeleri/tree/main/enkaz-dinleme)
 * [Enkaz Radari](https://github.com/melihkarakelle/afet-projeleri/tree/main/enkaz-radari)
