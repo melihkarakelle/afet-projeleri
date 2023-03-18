@@ -51,10 +51,10 @@ KALAN AŞAMLAR
 
 ## Nasil Yapilir?
 
-[![OSHWLab Basit Şema Sayfası]([link to image on GH](https://github.com/melihkarakelle/afet-projeleri/blob/main/enkaz-dinleme/sismik_oshwlab_page.png))]([link to your UR](https://oshwlab.com/melih/enkaz_dinleme_copy)L)
+[![OSHWLab Basit Şema Sayfası](https://github.com/melihkarakelle/afet-projeleri/blob/main/enkaz-dinleme/sismik_oshwlab_page.png))]([link to your UR](https://oshwlab.com/melih/enkaz_dinleme_copy)L)
 
 
-![image search api](https://user-images.githubusercontent.com/110724391/184472398-c590b47c-e1f2-41f8-87e6-2a1f68e8850d.png)[(Youtube)](https://www.youtube.com/watch?v=3HIr0imLgxM)
+![image search api](https://github.com/melihkarakelle/afet-projeleri/blob/main/enkaz-dinleme/sismik_oshwlab_page.png)[(OSHWLab Basit Şema Sayfası)](https://oshwlab.com/melih/enkaz_dinleme_copy)
 
 * [Enkaz Dinleme](https://github.com/melihkarakelle/afet-projeleri/tree/main/enkaz-dinleme)
 * [Enkaz Radari](https://github.com/melihkarakelle/afet-projeleri/tree/main/enkaz-radari)
