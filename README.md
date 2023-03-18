@@ -102,5 +102,7 @@ Radar](https://research.sabanciuniv.edu/id/eprint/96/1/3011800000350.pdf)
 
 * **Melih Karakelle** - Genel proje yurutucusu - https://twitter.com/MelihKarakelle
 
-## Tesekkurler
+## Tesekkurler 
+(pek çok fikir ve öneride bulunan katılımcıyı malesef paylaşamıyorum, sadece sürekli ve doğrudan katkıları elımden geldiğince ekleyeceğim)
+* [Uğur KILIÇ](https://twitter.com/qiapz)
 
