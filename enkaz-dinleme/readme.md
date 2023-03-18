@@ -47,7 +47,7 @@ KALAN AŞAMLAR
 * v3 Testi
 * Kutu ve kart tasarımının bitirilmesi
 * KendinYap gruplarına ulaşılıp yerinde üretim için destek verilmesi.
-* Türkiyede ilgili STK lar ile iletişime geçecek STL ağına konu ile ilgili sunum yapılması.
+* Türkiyede ilgili STK lar ile iletişime geçecek STK ağına konu ile ilgili sunum yapılması.
 * Türkiyede üretim veya gerekirse yurtdışından temin önündeki engellerin kaldırılması için resmi makamlarla görüşmeler (STK lar üzerinden)
 * İlk seri üretim ve dağıtım.
 * Bireysel ve ticari işletme talepleri için online satış ve gelirin ücretsiz dağıtılacak ürünlere aktarılması modelinin planlanması.  
