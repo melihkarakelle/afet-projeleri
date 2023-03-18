@@ -54,18 +54,17 @@ KALAN AŞAMLAR
 Projenin iki farklı versiyonunu paylaşıyorum. 
 
 ### 1) Basit Deneme Versiyonu
-Bu version kolay bulunacak malzemeler ile yapılabilen örnek devre şemasıdır.
+[![OSHWLab Page](https://github.com/melihkarakelle/afet-projeleri/blob/main/enkaz-dinleme/sismik_oshwlab_page.png)](https://oshwlab.com/melih/enkaz_dinleme_copy)
+<br>Bu version kolay bulunacak malzemeler ile yapılabilen örnek devre şemasıdır.
 Açıp kapama için anahtar, pil olarak da 3-4 kalep pil alan soket veya 9v pil kullanılabilir.
 https://oshwlab.com/melih/enkaz_dinleme_copy <br>
-[![OSHWLab Page](https://github.com/melihkarakelle/afet-projeleri/blob/main/enkaz-dinleme/sismik_oshwlab_page.png)](https://oshwlab.com/melih/enkaz_dinleme_copy)
 
 ### 2) Seri Üretim Versiyonu
-Endüstriyel üretim için uygun olan komponentler ile tasarlanmış devre şeması ve PCB tasarımıdır.
+[![OSHWLab Page](https://github.com/melihkarakelle/afet-projeleri/blob/main/enkaz-dinleme/sismik_oshwlab_page2.png)](https://oshwlab.com/melih/enkaz_dinleme)
+<br>Endüstriyel üretim için uygun olan komponentler ile tasarlanmış devre şeması ve PCB tasarımıdır.
 Otomatik açılıp kapanma, 3 ayaklı kartın esnemesine imkan veren ve 3D yazıcı ile basılabilir kutuya uygundur.
 2 adet AAA pille çalışır. Bütün parçaları (kutu ve piezo sensör hariç) JLCPCB de dizime ugundur.
-https://oshwlab.com/melih/enkaz_dinleme<br>
-[![OSHWLab Page](https://github.com/melihkarakelle/afet-projeleri/blob/main/enkaz-dinleme/sismik_oshwlab_page2.png)](https://oshwlab.com/melih/enkaz_dinleme)
-
+https://oshwlab.com/melih/enkaz_dinleme
 
 
 
