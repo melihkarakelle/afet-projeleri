@@ -1,10 +1,8 @@
-<br/>
 <p align="center">
   <h3 align="center">SİSMİK ENKAZ DİNLEME CİHAZI PROJE SAYFASI</h3>
 
   <p align="center">
-    Acik kaynakli olarak yuruttugum sismik enkaz dinleme cihazı hakkında herşey.<br><br>
-  
+    Acik kaynakli olarak yuruttugum sismik enkaz dinleme cihazı hakkında herşey.<br>  
     Bütün afet projeleri ve destek için lütfen önce Afet Projeleri sayfasını ziyaret edin
     https://github.com/melihkarakelle/afet-projeleri
     <br/>
