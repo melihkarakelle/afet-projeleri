@@ -1,11 +1,10 @@
 <p align="center">
   <h3 align="center">SİSMİK ENKAZ DİNLEME CİHAZI PROJE SAYFASI</h3>
-
   <p align="center">
+  <img src=https://github.com/melihkarakelle/afet-projeleri/blob/main/enkaz-dinleme/sismik_enkaz_dinleme_v3.jfif height=400><br>
     Acik kaynakli olarak yuruttugum sismik enkaz dinleme cihazı hakkında herşey.<br>  
     <br>Bütün afet projeleri ve destek için lütfen önce Afet Projeleri sayfasını ziyaret edin<br>
     https://github.com/melihkarakelle/afet-projeleri
-    <br/>
   </p>
 </p>
 
