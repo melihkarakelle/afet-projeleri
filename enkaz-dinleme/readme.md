@@ -13,6 +13,9 @@
 * [Amac](#Amac)
 * [Yol Haritasi](#yol-haritasi)
 * [Nasil Yapilir?](#nasil-yapilir)
+* [Destek](#destek)
+* [Katilim](#katilim)
+* [Lisans](#lisans)
 * [Lisans ve Kopyalama Hakkı](#lisans)
 * [Faydali Linkler](#faydali-linkler)
 * [Katkida Bulunanlar](#katkida-bulunanlar)
@@ -93,9 +96,6 @@ Eger ticari amacla kullaniyorsaniz, [Destek](#destek) kismini okuyarak yardimci 
 ## Faydali Linkler
 
 * [Piezo Pickup Amplifiers](https://sound-au.com/project202.htm)
-* [A High Resolution Ultrawideband Wall Penetrating
-Radar](https://research.sabanciuniv.edu/id/eprint/96/1/3011800000350.pdf)
-
 
 ## Proje Katılımcıları
 (nam-ı diğer contributors. Geliştirici olarak çalışanlar burada yer alacak.)
