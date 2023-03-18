@@ -27,9 +27,9 @@
 * Üretimi ve kullanımı kolay,
 bir sismik enkaz dinleme (life detector) cihazı üretmek ve arama kurtarmacılara mümkün olduğu kadar çok sayıda ulaştırmak.
 
-Örnek video
+Örnek video<br>
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=WxFC-EzqI3o" target="_blank">
- <img src="http://img.youtube.com/vi/WxFC-EzqI3o/mqdefault.jpg" alt="Watch the video" width="480" height="360" border="10" />
+ <img src="http://img.youtube.com/vi/WxFC-EzqI3o/mqdefault.jpg" alt="Watch the video" width="480" height="320" border="10" />
 </a>
 
 ## Yol Haritasi
