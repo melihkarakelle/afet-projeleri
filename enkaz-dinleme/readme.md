@@ -63,8 +63,8 @@ https://oshwlab.com/melih/enkaz_dinleme_copy
 Endüstriyel üretim için uygun olan komponentler ile tasarlanmış devre şeması ve PCB tasarımıdır.
 Otomatik açılıp kapanma, 3 ayaklı kartın esnemesine imkan veren ve 3D yazıcı ile basılabilir kutuya uygundur.
 2 adet AAA pille çalışır. Bütün parçaları (kutu ve piezo sensör hariç) JLCPCB de dizime ugundur.
-https://oshwlab.com/melih/enkaz_dinleme
-[![OSHWLab Page](https://github.com/melihkarakelle/afet-projeleri/blob/main/enkaz-dinleme/sismik_oshwlab_page.png)](https://oshwlab.com/melih/enkaz_dinleme)
+https://oshwlab.com/melih/enkaz_dinleme<br>
+[![OSHWLab Page](https://github.com/melihkarakelle/afet-projeleri/blob/main/enkaz-dinleme/sismik_oshwlab_page2.png](https://oshwlab.com/melih/enkaz_dinleme)
 
 
 
