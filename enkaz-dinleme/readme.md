@@ -47,6 +47,8 @@ KALAN AŞAMLAR
 
 ## Nasil Yapilir?
 
+{% include youtube.html id="WxFC-EzqI3o" %}
+
 * [Enkaz Dinleme](https://github.com/melihkarakelle/afet-projeleri/tree/main/enkaz-dinleme)
 * [Enkaz Radari](https://github.com/melihkarakelle/afet-projeleri/tree/main/enkaz-radari)
 * [Alan Aydinlatma Kulesi](https://github.com/melihkarakelle/afet-projeleri/tree/main/aydinlatma-kulesi)
