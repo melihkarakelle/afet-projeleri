@@ -25,7 +25,7 @@
 
 * Enkaz içerisinde cevap verebilir durumda canlı biri olduğunu onaylamak için kullanılabilecek, 
 * Çepte taşınabilir boyutta, 
-* Bakım ve uzamanlık gerektirmeyen, 
+* Bakım ve uzamanlık gerektirmeyen (Delsar kullanan uzmanlar için değildir), 
 * Üretimi ve kullanımı kolay,
 bir sismik enkaz dinleme (life detector) cihazı üretmek ve arama kurtarmacılara mümkün olduğu kadar çok sayıda ulaştırmak.
 
