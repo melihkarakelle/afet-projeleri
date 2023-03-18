@@ -16,7 +16,6 @@
 * [Destek](#destek)
 * [Katilim](#katilim)
 * [Lisans](#lisans)
-* [Lisans ve Kopyalama Hakkı](#lisans)
 * [Faydali Linkler](#faydali-linkler)
 * [Katkida Bulunanlar](#katkida-bulunanlar)
 * [Tesekkurler](#tesekkurler)
