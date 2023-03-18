@@ -3,23 +3,20 @@
   <h3 align="center">SİSMİK ENKAZ DİNLEME CİHAZI PROJE SAYFASI</h3>
 
   <p align="center">
-    Acik kaynakli olarak yuruttugum sismik enkaz dinleme cihazı hakkında herşey.
+    Acik kaynakli olarak yuruttugum sismik enkaz dinleme cihazı hakkında herşey.<br><br>
+  
     Bütün afet projeleri ve destek için lütfen önce Afet Projeleri sayfasını ziyaret edin
     https://github.com/melihkarakelle/afet-projeleri
     <br/>
   </p>
 </p>
 
-![Contributors](https://img.shields.io/github/contributors/melihkarakelle/afet-projeleri?color=dark-green) ![Forks](https://img.shields.io/github/forks/melihkarakelle/afet-projeleri?style=social) ![Issues](https://img.shields.io/github/issues/melihkarakelle/afet-projeleri) ![License](https://img.shields.io/github/license/melihkarakelle/afet-projeleri) 
-
 ## Basliklar
 
 * [Amac](#Amac)
 * [Yol Haritasi](#yol-haritasi)
-* [Projeler](#projeler)
-* [Destek](#destek)
-* [Katilim](#katilim)
-* [Lisans](#lisans)
+* [Nasıl Yapılır?](#Nasıl-Yapılır?)
+* [Lisans ve Kopyalama Hakkı](#lisans)
 * [Faydali Linkler](#faydali-linkler)
 * [Katkida Bulunanlar](#katkida-bulunanlar)
 * [Tesekkurler](#tesekkurler)
@@ -27,42 +24,31 @@
 
 ## Amac
 
-Bu projelerin amaci, hobi amacli olarak gelistirdigim, afet anlarinda kullanilabilecek teknolojileri paylasarak bunlarin gelistirilmesi veya oldugu gibi uretilmesi icin zemin teskil etmek. 
-
-Paylasilan projeleri, minimum bilgi ve beceri sahibi kisiler tarafindan yapilabilecek bicimde tasarlamaya calisiyorum ancak bazi kisimlar bireysel uretime uygun olmayabilir. 
-
-Projeleri alip degistirebilir, gelistirebilir, daha iyisini biliyorsaniz o sekilde bastan yapabilirsiniz.
-Hedefim bir kisiyi daha kurtarmak oldugu icin benim beklentim "golge etmeyin baska birsey istemem" ve yardiminiz olursa da simdiden tesekkurler.
-
-Kucuk bir hatirlatma:
-1980 lerin sonundan beri elektronik ve yazilim konularinda calisiyorum, makina muhendisligi okudum. Askeri/medikal/havacilik teknolojileri gelistirme, bilinen bazi markalarin yazilim altyapilarinin gelistirilmesi, siber guvenlik, web tasarim uzerine calistim. Tv izlemek yerine, aklima gelen teknolojilerin olurunu(proof of concept) test edip kenara atmakla omrumu geciriyorum. Bu projelerden kucuk bir kismini ticari urun olarak uretip gecimimi ve projelerim icin butcemi sagliyorum.
-Hayir zengin degilim, evi gecindirmek icin, okul cikisi benzin istasyonunda calismis bir ogretmenin ogluyum.
+* Enkaz içerisinde cevap verebilir durumda canlı biri olduğunu onaylamak için kullanılabilecek, 
+* Çepte taşınabilir boyutta, 
+* Bakım ve uzamanlık gerektirmeyen, 
+* Üretimi ve kullanımı kolay,
+bir sismik enkaz dinleme (life detector) cihazı üretmek ve arama kurtarmacılara mümkün olduğu kadar çok sayıda ulaştırmak.
 
 
 ## Yol Haritasi
 
-Projelerin tamamlanmasi icin asagidaki yol haritasini takip etmek istiyorum ancak gerek yasam gayesi, gerek yetiskin ADHDsinin cikarttigi zorluklar, gerek insanimizin konuyu unutma hizi sebebi ile ne kadarini bitirebilirim simdilik kestirmek zor.
+* 21 Şubat 2023: 1999 depreminden sonra yaptığım tasarım güncellendi.
+* 2 Mart 2023: 1. versiyon devre test edildi, v2 üretime yollandı. 
+* 16 Mart 2023: 2. versiyon üretimden geldi test edildi.
+* 18 Mart 2023 3. versiyon tasarlandı, üretime gönderildi. Github sayfası açıldı.
 
-* Asama 1:
-  Basit Enkaz Dinleme Cihazi tasarimi, uretimi ve adetli uretilip dagitimi icin uretim ve gelir modeli olusturulmasi.
-  
-* Asama 2:
-  Profesyonel Enkaz Dinleme Cihazi tasarimi, uretimi ve arama kurtarma birimlerine dagitimi.
-
-* Asama 3:
-  Termal Kamera test ve uretimi. Yasal sikintilarin cozulmesi.
-  (Termal kamera isim geregi yapmakta oldugum birsey, gelistirme sureci hizli olacagi icin belirtmedim)
-
-* Asama 4:
-  Enkaz Radari tasarimi, uretimi ve arama kurtarma birimlerine dagitimi.
-  
-* Asama 5:
-  Alan aydinlatma sistemleri tasarimi, uretimi ve arama kurtarma birimlerine dagitimi.
-  
- 
+KALAN AŞAMLAR
+* v3 Testi
+* * Kutu ve kart tasarımının bitirilmesi
+* KendinYap gruplarına ulaşılıp yerinde üretim için destek verilmesi.
+* Türkiyede ilgili STK lar ile iletişime geçecek STL ağına konu ile ilgili sunum yapılması.
+* Türkiyede üretim veya gerekirse yurtdışından temin önündeki engellerin kaldırılması için resmi makamlarla görüşmeler (STK lar üzerinden)
+* İlk seri üretim ve dağıtım.
+* Bireysel ve ticari işletme talepleri için online satış ve gelirin ücretsiz dağıtılacak ürünlere aktarılması modelinin planlanması.  
 
 
-## Projeler
+## Nasıl Yapılır?
 
 * [Enkaz Dinleme](https://github.com/melihkarakelle/afet-projeleri/tree/main/enkaz-dinleme)
 * [Enkaz Radari](https://github.com/melihkarakelle/afet-projeleri/tree/main/enkaz-radari)
@@ -73,13 +59,13 @@ Projelerin tamamlanmasi icin asagidaki yol haritasini takip etmek istiyorum anca
 
 ## Destek
 
-Kar amaci gutmeden yapacagim projelere destek olmanin pek cok yolu var:
+Kar amaci gutmeyen bu projeye destek için:
 
-1. Paylasilan projelerin, becerileriniz olcusunde uretimini yapabilirsiniz, yapanlara yardim edebilirsiniz.
+1. Becerileriniz olcusunde uretimini yapabilirsiniz, yapanlara yardim edebilirsiniz.
 2. Eksik veya onerilerinizi bana iletebilirsiniz -> [buradan](https://github.com/melihkarakelle/afet-projeleri/issues)
 3. Gelistirme asamasinda becerilerinizi paylasabilirsiniz -> [Katilim](#katilim)
-4. Maddi destek verebilrisiniz (yakinda)
-6. Biten projelerin ucretsiz dagitimina katki icin ucreti karsiliginda kendinize alabilirsiniz. (yakinda)
+4. Maddi destek verebilirsiniz (yakinda)
+6. Seri üretim sonrası ücretsiz dagitimina katki icin ucreti karsiliginda kendinize alabilirsiniz. (yakinda)
 
 
 
