@@ -15,7 +15,7 @@
 
 * [Amac](#Amac)
 * [Yol Haritasi](#yol-haritasi)
-* [Nasıl Yapılır?](#Nasıl-Yapılır?)
+* [Nasil Yapilir?](#nasil-yapilir)
 * [Lisans ve Kopyalama Hakkı](#lisans)
 * [Faydali Linkler](#faydali-linkler)
 * [Katkida Bulunanlar](#katkida-bulunanlar)
@@ -40,7 +40,7 @@ bir sismik enkaz dinleme (life detector) cihazı üretmek ve arama kurtarmacıla
 
 KALAN AŞAMLAR
 * v3 Testi
-* * Kutu ve kart tasarımının bitirilmesi
+* Kutu ve kart tasarımının bitirilmesi
 * KendinYap gruplarına ulaşılıp yerinde üretim için destek verilmesi.
 * Türkiyede ilgili STK lar ile iletişime geçecek STL ağına konu ile ilgili sunum yapılması.
 * Türkiyede üretim veya gerekirse yurtdışından temin önündeki engellerin kaldırılması için resmi makamlarla görüşmeler (STK lar üzerinden)
@@ -48,7 +48,7 @@ KALAN AŞAMLAR
 * Bireysel ve ticari işletme talepleri için online satış ve gelirin ücretsiz dağıtılacak ürünlere aktarılması modelinin planlanması.  
 
 
-## Nasıl Yapılır?
+## Nasil Yapilir?
 
 * [Enkaz Dinleme](https://github.com/melihkarakelle/afet-projeleri/tree/main/enkaz-dinleme)
 * [Enkaz Radari](https://github.com/melihkarakelle/afet-projeleri/tree/main/enkaz-radari)
