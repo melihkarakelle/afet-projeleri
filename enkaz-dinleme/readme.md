@@ -3,7 +3,7 @@
 
   <p align="center">
     Acik kaynakli olarak yuruttugum sismik enkaz dinleme cihazı hakkında herşey.<br>  
-    Bütün afet projeleri ve destek için lütfen önce Afet Projeleri sayfasını ziyaret edin
+    <br>Bütün afet projeleri ve destek için lütfen önce Afet Projeleri sayfasını ziyaret edin<br>
     https://github.com/melihkarakelle/afet-projeleri
     <br/>
   </p>
