@@ -98,11 +98,12 @@ Eger ticari amacla kullaniyorsaniz, [Destek](#destek) kismini okuyarak yardimci 
 Radar](https://research.sabanciuniv.edu/id/eprint/96/1/3011800000350.pdf)
 
 
-## Katkida Bulunanlar
+## Proje Katılımcıları
+(nam-ı diğer contributors. Geliştirici olarak çalışanlar burada yer alacak.)
 
 * **Melih Karakelle** - Genel proje yurutucusu - https://twitter.com/MelihKarakelle
 
 ## Tesekkurler 
-(pek çok fikir ve öneride bulunan katılımcıyı malesef paylaşamıyorum, sadece sürekli ve doğrudan katkıları elimden geldiğince ekleyeceğim)
+(pek çok fikir ve öneride bulunan katılımcıyı malesef paylaşamıyorum, sadece sürekli ve doğrudan destek olanları elimden geldiğince ekleyeceğim, unutursam affola.)
 * [Uğur KILIÇ](https://twitter.com/qiapz)
 
